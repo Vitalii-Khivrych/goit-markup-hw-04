@@ -551,6 +551,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+  color: var(--titel-colore);
   /* margin-top: 20px; */
   margin-bottom: 4px;
   /* text-align: center; */
@@ -558,7 +559,6 @@ body {
 .project-text {
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 0.03em;
   color: var(--text-colore);
   /* text-align: center; */
   /* padding-bottom: 20px; */
@@ -574,8 +574,8 @@ body {
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
-  letter-spacing: 0.03em;
   border: none;
+  color: var(--titel-colore);
   background: #f5f4fa;
   border-radius: 4px;
   padding: 6px 22px;
